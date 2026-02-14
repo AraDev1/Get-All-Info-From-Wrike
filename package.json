@@ -3,11 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "build": "tsc",
-    "start": "node index1.js",
-    "dev": "npx ts-node index1.ts",
-    "watch": "tsc -w",
-    "test": "jest --config jest.config.js"
+    "dev": "ts-node mainCode.ts"
   },
   "keywords": [],
   "author": "",
