@@ -1,1 +1,21 @@
-To get all your information from wrike you need to get your access token from wrike and put it in file called .env in WRIKE_TOKEN.After that go to console and run command "npm run dev"
+# ✏️ First Step
+
+## Open your Wrike account with Projects and get your Access Token from there
+
+-------
+
+# 🃏 Second Step
+
+## Open folder and go into the file called .env
+
+---
+
+# 🎯 Third Step
+
+## Open Console and go to Terminal and run "npm run dev" command
+
+----
+
+# 🏁 Finish!
+
+## That's it now you can see all your information from Wrike in json files
